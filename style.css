@@ -1,0 +1,29 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.title {
+    background-color:  gray;
+    text-align: center;
+    outline: 2px solid gray;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.button {
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 0px;
+}
+
+img {
+    border-radius: 10px;
+    float: right;
+}
+
+li {
+    color: rgb(78, 78, 78);
+    margin-bottom: 5px;
+}
